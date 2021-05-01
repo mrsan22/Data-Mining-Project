@@ -15,3 +15,4 @@ Random Forest showed the best performance recognizing the activities with overal
 * Libraries: Scikit-Learn/SciPy, NumPy, Pandas, Matplotlib
 * Algorithms : Random Forest, K-NN
 * Evaluation Methodology: LOSO(Leave One Subject Out), K-Fold validation, Confusion Matrix
+change ho gya
